@@ -1,12 +1,6 @@
 [
     {
         "remote":       "github",
-        "repository":   "DerpFest-Devices/device_xiaomi_sakura",
-        "target_path":  "device/xiaomi/sakura",
-        "revision":     "derpten"
-    },
-    {
-        "remote":       "github",
         "repository":   "mahajant99/vendor_xiaomi_sakura",
         "target_path":  "vendor/xiaomi",
         "revision":     "lineage-17.1"
